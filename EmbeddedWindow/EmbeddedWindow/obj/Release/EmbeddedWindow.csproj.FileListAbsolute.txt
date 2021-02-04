@@ -1,0 +1,10 @@
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\bin\Release\EmbeddedWindow.exe.config
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\bin\Release\EmbeddedWindow.exe
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\bin\Release\EmbeddedWindow.pdb
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\obj\Release\EmbeddedWindow.csprojAssemblyReference.cache
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\obj\Release\EmbeddedWindow.Form1.resources
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\obj\Release\EmbeddedWindow.Properties.Resources.resources
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\obj\Release\EmbeddedWindow.csproj.GenerateResource.cache
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\obj\Release\EmbeddedWindow.csproj.CoreCompileInputs.cache
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\obj\Release\EmbeddedWindow.exe
+C:\Users\cedo\source\repos\EmbeddedWindow\EmbeddedWindow\obj\Release\EmbeddedWindow.pdb
